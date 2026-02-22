@@ -1,0 +1,8 @@
+# Ignore local env and runtime artifacts
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Local data/cache
+data/
